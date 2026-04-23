@@ -1,6 +1,11 @@
 <div align="center">
 
-# Newtype Industries
+<a id="newtype-industries"></a>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/logo-horizontal-white.png">
+  <img src="./assets/logo-wordmark-white.png" alt="Newtype Industries" width="420">
+</picture>
 
 ### We build AI systems that win. By warfighters, for warfighters.
 
@@ -32,6 +37,12 @@ We don't build features for demos. We build capabilities that win fights.
 - **Ship narrow, ship real.** We'd rather deliver one capability that works downrange than ten that demo well.
 - **Secure by default.** Security, auditability, and offline resilience are not afterthoughts.
 
+## Join Us
+ 
+If you want your work to matter — where the end user is someone trusting your software in a fight — we'd like to talk.
+ 
+→ **[See open roles](https://careers.newtypeinds.com)**
+
 ## Contact
 
 - contact@newtypeinds.com
@@ -60,6 +71,12 @@ We don't build features for demos. We build capabilities that win fights.
 - **좁게, 실제로 출시.** 데모에서만 화려한 열 개보다, 현장에서 작동하는 하나를 출시하는 쪽을 택합니다.
 - **기본값이 보안.** 보안, 감사 가능성, 오프라인 복원력은 뒤늦게 붙이는 것이 아닙니다.
 
+## 함께하기
+ 
+자신의 일이 실질적인 의미를 갖기를 원한다면, 최종 사용자가 실제 전장에서 당신의 소프트웨어를 신뢰하는 상황이라면 이야기 나누고 싶습니다.
+ 
+→ **[채용 공고 보기](https://careers.newtypeinds.com)**
+
 ## 연락처
 
 - contact@newtypeinds.com
@@ -70,6 +87,6 @@ We don't build features for demos. We build capabilities that win fights.
 
 ---
 
-<sub>© Newtype Industries · Seoul, Republic of Korea</sub>
+<sub>© Newtype Industries · Seoul, Republic of Korea · Virginia, USA</sub>
 
 </div>
