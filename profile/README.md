@@ -73,7 +73,7 @@ If you want your work to matter — where the end user is someone trusting your 
 
 ## 함께하기
  
-자신의 일이 실질적인 의미를 갖기를 원한다면, 최종 사용자가 실제 전장에서 당신의 소프트웨어를 신뢰하는 상황이라면 이야기 나누고 싶습니다.
+자신의 일이 실질적인 의미를 갖기를 원한다면, 최종 사용자가 실제 전장에서 당신의 소프트웨어를 신뢰하는 상황에 가슴뛴다면, 함께 이야기 나누고 싶습니다.
  
 → **[채용 공고 보기](https://careers.newtypeinds.com)**
 
