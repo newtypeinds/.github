@@ -9,8 +9,8 @@
 
 ### We build AI systems that win. By warfighters, for warfighters.
 
-[![Website](https://img.shields.io/badge/Website-newtypeinds.com-0A0A0A?style=flat-square)](https://www.newtypeinds.com)
-[![Careers](https://img.shields.io/badge/Careers-We're_Hiring-00A86B?style=flat-square)](https://careers.newtypeinds.com)
+[![Website](https://img.shields.io/badge/Website-newtypeind.com-0A0A0A?style=flat-square)](https://www.newtypeind.com)
+[![Careers](https://img.shields.io/badge/Careers-We're_Hiring-00A86B?style=flat-square)](https://careers.newtypeind.com)
 [![Contact](https://img.shields.io/badge/Contact-contact@newtypeinds.com-0066CC?style=flat-square)](mailto:contact@newtypeinds.com)
 
 </div>
@@ -41,7 +41,7 @@ We don't build features for demos. We build capabilities that win fights.
  
 If you want your work to matter — where the end user is someone trusting your software in a fight — we'd like to talk.
  
-→ **[See open roles](https://careers.newtypeinds.com)**
+→ **[See open roles](https://careers.newtypeind.com)**
 
 ## Contact
 
@@ -75,7 +75,7 @@ If you want your work to matter — where the end user is someone trusting your 
  
 자신의 일이 실질적인 의미를 갖기를 원한다면, 최종 사용자가 실제 전장에서 당신의 소프트웨어를 신뢰하는 상황에 가슴뛴다면, 함께 이야기 나누고 싶습니다.
  
-→ **[채용 공고 보기](https://careers.newtypeinds.com)**
+→ **[채용 공고 보기](https://careers.newtypeind.com)**
 
 ## 연락처
 
